@@ -1,2 +1,2 @@
 # Formulas_Direito
-acesso às fórmulas
+formulas de calculo de proximidades penais
